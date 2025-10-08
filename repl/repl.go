@@ -20,7 +20,7 @@ const MONKEY_FACE = `            __,__
        |  \._   _./  |
        \   \ '~' /   /
         '._ '-=-' _.'
-	       '-----'
+           '-----'
 `
 
 func Start(in io.Reader, out io.Writer) {
